@@ -4,8 +4,9 @@
     <list default="true" id="7420abba-8ca1-4580-9403-103534013e4c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/CSS/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Images/user-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
